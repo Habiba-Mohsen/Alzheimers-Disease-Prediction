@@ -77,3 +77,36 @@ The study demonstrates that machine learning techniques can significantly contri
 
 We acknowledge the support from Cairo University and the availability of the OASIS-2 dataset from Washington University in St. Louis.
 
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Habiba-Mohsen" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/101303283?v=4" width="150px;" alt="Habiba Mohsen"/>
+    <br />
+    <sub><b>Habiba Mohsen</b></sub></a>
+    </td>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Hazem-Raafat" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/100636693?v=4" width="150px;" alt="Hazem Raafat"/>
+    <br />
+    <sub><b>Hazem Raafat</b></sub></a>
+    </td>
+    <td align="center">
+   <td align="">
+    <a href="https://github.com/malaknasser812" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/61388796?v=4" width="150px;" alt="Malak Nasser"/>
+    <br />
+    <sub><b>Malak Nasser</b></sub></a>
+    </td>
+   <td align="">
+    <a href="https://github.com/hanaheshamm" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/115111861?v=4" width="150px;" alt="Hana Hesham"/>
+    <br />
+    <sub><b>Hana Hesham</b></sub></a>
+    </td>
+    </tr>
+ </table>
+
