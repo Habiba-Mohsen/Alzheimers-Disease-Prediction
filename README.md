@@ -77,6 +77,3 @@ The study demonstrates that machine learning techniques can significantly contri
 
 We acknowledge the support from Cairo University and the availability of the OASIS-2 dataset from Washington University in St. Louis.
 
-## Contact Information
-
-For further information, please contact the authors via their provided email addresses.
